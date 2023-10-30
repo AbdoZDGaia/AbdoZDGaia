@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdelrahman and I'm a Senior SWE, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Abdelrahman and I'm a Senior SWE, from Egypt.</h2>
 
 ###
 
